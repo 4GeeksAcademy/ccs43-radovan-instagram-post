@@ -1,0 +1,48 @@
+.father {
+    width: 500px;
+    margin: auto;
+    font-family:roboto;    
+}
+
+.heading {
+    font-size: 17px;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 100%;
+    object-fit: scale-down;
+}
+
+.likes{
+    font-size: 30px;
+}
+
+.save{
+    position: relative;
+    left: 360px;
+}
+
+.css {
+    font-size: 40px;
+}
+
+.menu {
+    /* position: relative; */
+    /* left: 390px; */
+    font-size: 30px;
+}
+
+.nombre {
+    position: relative;
+    left: 10px;
+}
+
+.caja1{
+    display: flex;
+}
+
+.margin{
+    margin: 0%;
+}
